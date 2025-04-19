@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\windows-forms-calculator\bin\Debug\net8.0-windows\windows-forms-calculator.exe
+C:\Users\Administrator\Documents\windows-forms-calculator\bin\Debug\net8.0-windows\windows-forms-calculator.deps.json
+C:\Users\Administrator\Documents\windows-forms-calculator\bin\Debug\net8.0-windows\windows-forms-calculator.runtimeconfig.json
+C:\Users\Administrator\Documents\windows-forms-calculator\bin\Debug\net8.0-windows\windows-forms-calculator.dll
+C:\Users\Administrator\Documents\windows-forms-calculator\bin\Debug\net8.0-windows\windows-forms-calculator.pdb
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\windows_forms_calculator.MainForm.resources
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\windows-forms-calculator.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\windows-forms-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\windows-forms-calculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\windows-forms-calculator.AssemblyInfo.cs
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\windows-forms-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\windows-forms-calculator.dll
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\refint\windows-forms-calculator.dll
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\windows-forms-calculator.pdb
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\windows-forms-calculator.genruntimeconfig.cache
+C:\Users\Administrator\Documents\windows-forms-calculator\obj\Debug\net8.0-windows\ref\windows-forms-calculator.dll

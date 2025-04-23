@@ -8,4 +8,5 @@ A simple calculator built using Windows Forms in C#. This calculator performs ba
 - Color-coded buttons for better user experience
 
 **Screenshot**
+
 ![{C56EBE26-23B7-48AC-A0EE-4984FA5DAAB1}](https://github.com/user-attachments/assets/9a2cab0d-c3b4-4ac8-97dd-4264306dd7c6)

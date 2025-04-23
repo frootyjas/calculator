@@ -128,5 +128,10 @@ namespace windows_forms_calculator
             calculator.PressEquals();
         }
         private void Clear_Click(object? sender, EventArgs e) => calculator.Clear();
+
+        private void mainPanel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
